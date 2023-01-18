@@ -16,6 +16,35 @@
 
 now check the jupyter link shown on the console, copy paste the same in your browser. 
 
+# If you want to access jupyter from local machine/office machine
+
+
+open new terminal in Linux
+
+replace training with ip address 
+
+type below command 
+```
+ifconfig 
+```
+
+copy ip from eth0, for example 123.234.32.12
+
+then replace training in the url with the ip address copied 
+
+copy the url from jupyter terminal
+
+```
+http://training:8888/lab?token=6e63304036b37d7e4be500463ff5e99fa989b157b4045ce1
+```
+
+```
+http://123.234.32.12:8888/lab?token=6e63304036b37d7e4be500463ff5e99fa989b157b4045ce1
+```
+
+open the url with ip address on your chrome browser from office laptop 
+
+
 ### Hint to know site-packages location
 system wide
 ```
