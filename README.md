@@ -7,7 +7,7 @@
  source bin/activate
  pip install apache-flink==1.15.3
  pip install jupyterlab
- jupyter-lab
+ jupyter-lab --ip="0.0.0.0"
  ```
 
 now check the jupyter link shown on the console, copy paste the same in your browser. 
