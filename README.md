@@ -2,6 +2,11 @@
 
  https://demo.firepad.io/#RkjDdI8F4n
 
+# Day  1 code reference 
+
+  https://github.com/nodesense/cts-flink-2022/tree/main/notebooks2
+  
+
 # PyFlink for Local Development with Jupyter
  
 
